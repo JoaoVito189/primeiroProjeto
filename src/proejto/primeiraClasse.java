@@ -5,7 +5,7 @@ public class primeiraClasse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.print("Testando");
+		System.out.print("Teste 3");
 
 	}
 
